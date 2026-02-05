@@ -1,4 +1,4 @@
-# Lab-Assignment-1-Strategy-Pattern
+<img width="3668" height="2136" alt="Blank diagram (6)" src="https://github.com/user-attachments/assets/c3dc6550-e75a-450c-89c4-54d0c367f115" /># Lab-Assignment-1-Strategy-Pattern
 <h1> Problem scenario: </h1>  
 
 Suppose we have three types of characters in a GameApp:
@@ -51,4 +51,8 @@ public class Character {
         }
     }
 }
+
+<h1> UML Diagram </h1>
+
+<img width="3668" height="2136" alt="Blank diagram (6)" src="https://github.com/user-attachments/assets/514043f8-dff8-4e4f-a5f7-504c4fb05d9e" />
 
